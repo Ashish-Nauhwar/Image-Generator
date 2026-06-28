@@ -8,7 +8,8 @@ const modelSelect = document.getElementById(`model-select`);
 const ratioSelect = document.getElementById(`ratio-select`);
 const gridgallery = document.querySelector(".gallery-grid");
 
-const API_KEY = "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";
+
+const HF_TOKEN = "PASTE_YOUR_TOKEN_HERE";
 
 
 // set theme based on saved preference or system default
