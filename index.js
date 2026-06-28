@@ -8,7 +8,7 @@ const modelSelect = document.getElementById(`model-select`);
 const ratioSelect = document.getElementById(`ratio-select`);
 const gridgallery = document.querySelector(".gallery-grid");
 
-
+//paste your hugging face token here
 const HF_TOKEN = "PASTE_YOUR_TOKEN_HERE";
 
 
